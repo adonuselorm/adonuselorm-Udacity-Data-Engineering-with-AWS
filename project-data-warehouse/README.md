@@ -1,8 +1,8 @@
 # Sparkify Data Warehouse on AWS Redshift
-## Introduction
-Here's a professional rewrite:
 
-# Sparkify Data Warehousing Project
+## Introduction
+
+## Sparkify Data Warehousing Project
 
 ## Overview
 Sparkify, a rapidly growing music streaming platform, is undertaking a strategic initiative to migrate their data infrastructure to the cloud. As their user engagement and content library continue to scale exponentially, the company requires a more sophisticated approach to data management and analytics.
