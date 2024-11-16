@@ -129,4 +129,4 @@ LIMIT 2;
 ```
 
 **Result**
-The peak hour is hour **17**, which means 5 pm. This also makes sense, as this is the time where most people start to get off work and are on their way home and can listen to music. The second most active hour is hour **18**. 
+We notice the peak hour to be hour **17**, that is 5 pm. Reasonably this is also the time where most people start to get off work and are on their way home and can listen to music. Also we notice the second most active hour is hour **18**. 
