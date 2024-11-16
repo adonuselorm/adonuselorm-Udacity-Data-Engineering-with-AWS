@@ -128,5 +128,6 @@ ORDER BY play_count DESC
 LIMIT 2;
 ```
 
-**Result**
+**Result:**
+
 We notice the peak hour to be hour **17**, that is 5 pm. Reasonably this is also the time where most people start to get off work and are on their way home and can listen to music. Also we notice the second most active hour is hour **18**. 
